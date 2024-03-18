@@ -1,2 +1,2 @@
 # ejemplohtml2024S3
-Uso de etiquetas html
+Ejemplo de html y uso de github
